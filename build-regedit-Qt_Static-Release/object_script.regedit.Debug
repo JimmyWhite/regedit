@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\usb.o
+./debug\autorun.o
+./debug\ie.o
+./debug\sysinfo.o
+./debug\word.o
+./debug\regedit_plugin_import.o
+./debug\qrc_regedit.o
+./debug\moc_mainwindow.o
+);
